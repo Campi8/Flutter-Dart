@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Xtudo extends StatelessWidget {
-  const Xtudo({super.key});
+class Xtudoduplo extends StatelessWidget {
+  const Xtudoduplo({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("X-tudo"),
+        title: const Text("X-tudo duplo"),
       ),
       body: Center(
         child: Column(
